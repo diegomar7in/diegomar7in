@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since: 2022 <br>🎲 Fun: Play games.<br>🎸Hobby: Playing the guitar<br>🤩 Likes: technology and music.<br>🤸‍♂️ Frequently: I train.</h4>
+<h4 align="left">✨ Creando bugs desde: 2022 <br>🎲 Me divierto: Jugando videojuegos.<br>🎸Pasatiempo: Tocar la guitarra<br>🤩 Gustos: Musica y tecnología.<br>🤸‍♂️ Con frecuencia: Entreno.</h4>
 
 ###
 
