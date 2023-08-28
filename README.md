@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Diego 🤘</h1>
+<h1 align="center">Hola!, Soy Diego 🤘</h1>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mi</h2>
 
 ###
 
-<p align="left">I am Argentine, I have been dedicated to Web Design and Multimedia since 2023</p>
+<p align="left"> Soy Argentino, y me dedico al Diseño Web y Multimedia desde 2023</p>
 
 ###
 
