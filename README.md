@@ -1,6 +1,3 @@
-<h1 align="center">Hola!, Soy Diego 🤘</h1>
-
-###
 
   ![banner-gif](https://github.com/diegomar7in/diegomar7in/assets/133927902/aecb4bf0-07b8-4ba6-9986-5f5fa2e3b97e)
 
